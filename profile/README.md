@@ -4,4 +4,4 @@ Astrocytes constitute ~20% of cells in the brain and closely interact with neuro
 
 Check out our [website](https://allen.salk.edu/) for more information.
 
-![Astrocytes in the Mouse Hippocampus, Image by Isabel Salas](/AstroImageforGitHub.jpg Astrocytes in the Mouse Hippocampus, Image by Isabel Salas)
+![Astrocytes in the Mouse Hippocampus, Image by Isabel Salas](/AstroImageforGitHub.jpg "Astrocytes in the Mouse Hippocampus, Image by Isabel Salas")
